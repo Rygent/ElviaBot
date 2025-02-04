@@ -30,7 +30,7 @@
     "@commitlint/cli": "^19.6.1",
     "@commitlint/config-angular": "^19.7.0",
     "@types/lodash.merge": "^4.6.9",
-    "@types/node": "^22.10.7",
+    "@types/node": "^22.13.1",
     "eslint": "^9.18.0",
     "eslint-config-prettier": "^10.0.1",
     "eslint-config-terrax": "^0.3.4",
